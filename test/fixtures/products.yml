@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  product_id: 1
+  title: MyString
+  year: 1
+  description: MyText
+  director: MyString
+  genre: MyString
+  keywords: MyString
+  actors: MyString
+  link_url: MyString
+  image_url: MyString
+  price: 9.99
+
+two:
+  product_id: 1
+  title: MyString
+  year: 1
+  description: MyText
+  director: MyString
+  genre: MyString
+  keywords: MyString
+  actors: MyString
+  link_url: MyString
+  image_url: MyString
+  price: 9.99
